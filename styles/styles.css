@@ -111,5 +111,8 @@ body{
     width: 3px;
     height: 101px;
     background: #0bb5f4;
+}
 
+.icons{
+    margin-right: 20px;
 }
